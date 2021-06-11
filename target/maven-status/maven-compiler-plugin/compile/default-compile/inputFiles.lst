@@ -1,0 +1,8 @@
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/controller/abstracts/UserController.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/Main.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/data_access/concrete/UserDaoImpl.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/controller/concrete/UserContollerImpl.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/entities/concrete/User.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/data_access/abstracts/UserDao.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/entities/abstracts/Entity.java
+/home/kaan/NetBeansProjects/java_kamp_hafta5/src/main/java/core/veritabani_simulasyon/UserTable.java

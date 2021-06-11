@@ -1,0 +1,8 @@
+data_access/concrete/UserDaoImpl.class
+Main.class
+controller/abstracts/UserController.class
+entities/abstracts/Entity.class
+entities/concrete/User.class
+data_access/abstracts/UserDao.class
+controller/concrete/UserContollerImpl.class
+core/veritabani_simulasyon/UserTable.class
